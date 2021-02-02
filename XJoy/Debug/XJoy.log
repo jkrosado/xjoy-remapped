@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  XJoy.cpp
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(426): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(759): warning C5043: 'terminate': exception specification does not match previous declaration
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_terminate.h(29): note: see declaration of 'terminate'
+c:\users\john\downloads\xjoy-master\xjoy-master\xjoy\xjoy.cpp(759): warning C4273: 'terminate': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_terminate.h(29): note: see previous definition of 'terminate'
+  Yaml.cpp
+  Generating Code...
+     Creating library C:\Users\John\Downloads\XJoy-master\XJoy-master\Debug\XJoy.lib and object C:\Users\John\Downloads\XJoy-master\XJoy-master\Debug\XJoy.exp
+  XJoy.vcxproj -> C:\Users\John\Downloads\XJoy-master\XJoy-master\Debug\XJoy.exe
